@@ -7,25 +7,26 @@ I am a cybersecurity graduate (M.S. May 2026) with a strong foundation in comput
 
 I am eager to apply my academic background and practical skills to a Tier 1 SOC Analyst role (or similar). My goal is to contribute to a SOC, learn from experienced professionals, and ultimately grow into Digital Forensics and Incident Response (DFIR) specialist.
 
-## Certifications and Training
+## Professional Experience & Education
+- **Threat Management and Incident Response Intern** | [PSEG (Public Service Enterprise Group)](https://www.pseg.com/)
+	- *Gained hands-on experience in a corporate SOC environment for a critical infrastructure utility, focusing on SIEM operations (MS Sentinel), converting Trellix Helix alerts into KQL, Shadow IT, EDR, and incident response procedures.*
+- **M.S. Computer and Information Sciences, Cybersecurity Emphasis** | The Citadel / College of Charleston (May 2026)
+- **B.S. Computer Science** | College of Charleston (May 2025)
+
+## Certifications & Training
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## Competitions & Labs
+## Competitions
 - **National Cyber League** - 98th percentile (168/7869) Individual Game 
 	- [Scouting Report](https://cyberskyline.com/report/KTBRGJNJMUJE)
 - **CharlestonHacks Hackathon** - 1st Place 
-- **B-Sides Charleston CTF** - 2nd Place
+- **B-Sides Charleston Conference CTF** - 2nd Place
 - HiveStorm Defense, Dragos ICS CTF, PicoCTF
-- CyberDefenders, Blue Team Labs Online, Let's Defend, TryHackMe
 
-### CyberDefenders
-- [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/webstrike/)
-- [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/hawkeye/)
-- TODO: add more links
 
 ## Skills
 
@@ -106,3 +107,10 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 - **Movements, Not Chords:** A smartphone instrument that maps physical movements to harmonies using accelerometer data. [Repo](https://github.com/trevritchie/Movements-Not-Chords-JythonMusic)
 - **JazzFlow:** A compositional aid that transforms a MIDI input into 32 inspiring variations. [Repo](https://github.com/trevritchie/JazzFlow)
 - **Timbre!:** An audiovisual simulation where L-system tree growth generates music in real-time. Tree growth directly controls pitch, rhythm, dynamics, and panning. [Repo](https://github.com/trevritchie/Timbre)
+
+## Hands-On Labs
+- The Citadel's NetLabs, CyberDefenders, Blue Team Labs Online, Let's Defend, TryHackMe
+### CyberDefenders
+- [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/webstrike/)
+- [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/hawkeye/)
+- TODO: add more links
