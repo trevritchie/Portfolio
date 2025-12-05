@@ -7,6 +7,32 @@ I am a cybersecurity graduate (M.S. May 2026) with a strong foundation in comput
 
 I am eager to apply my academic background and practical skills to a Tier 1 SOC Analyst role (or similar). My goal is to contribute to a SOC, learn from experienced professionals, and ultimately grow into Digital Forensics and Incident Response (DFIR) specialist.
 
+## Projects
+
+### InfoSec
+- [ICS Attack Simulation, Forensic Analysis, and Incident Response Playbook for an Electrical Distribution Substation](https://github.com/trevritchie/ICS-Attack-Simulation-Forensic-Analysis-and-Incident-Response-Playbook)
+	- Multi-stage ICS cyberattack simulation against 69kV/13.8kV distribution substation: IT-to-OT pivot culminating in unauthorized Modbus PLC  manipulation. Includes PCAP forensic analysis, NIST incident response playbook, attack scripts, and real-world impact assessment for critical infrastructure security education.
+	- GNS3, Purdue Model for ICS Networks, VMWare Workstation Pro, Wireshark, Networking
+- [Threat Modeling a Ransomware Attack on a Wallpaper Manufacturer](Threat_Modeling_a_Ransomware_Attack_on_a_Wallpaper_Manufacturer.pdf)
+    - IEEE Style Paper, MITRE ATT&CK, Data Centric Threat Modeling
+- Digital Forensics on Windows Server 2019
+	- Autopsy, Ransomware, Windows Event IDs 
+
+### Software
+- [CreativePython](https://pypi.org/project/CreativePython): A Python package for audio-visual creative programming and algorithmic art. Available on PyPIP and paper coming soon.
+- [Movements, Not Chords](https://github.com/trevritchie/Movements-Not-Chords-JythonMusic): A smartphone instrument that maps physical movements to harmonies using accelerometer data.
+- [JazzFlow](https://github.com/trevritchie/JazzFlow): A compositional aid that transforms a MIDI input into 32 inspiring variations.
+- [Timbre!](https://github.com/trevritchie/Timbre): An audiovisual simulation where L-system tree growth generates music in real-time. Tree growth directly controls pitch, rhythm, dynamics, and panning.
+- [GuitarDice](https://trevritchie.github.io/Guitar-Dice/): A web-based practice tool for guitarists to randomly explore chord voicings.
+- [flac2aac](https://github.com/trevritchie/flac2aac): Batch convert FLAC files to AAC (m4a). Save a bunch of space while maintaining transparent audio quality. Retains file tags and album covers. I don't trust these online converters and they have low limits.
+
+## Competitions
+- **National Cyber League** - 98th percentile (168/7869) Individual Game 
+	- [Scouting Report](https://cyberskyline.com/report/KTBRGJNJMUJE)
+- **CharlestonHacks Hackathon** - 1st Place 
+- **B-Sides Charleston Conference CTF** - 2nd Place
+- HiveStorm Defense, Dragos ICS CTF, PicoCTF
+
 ## Professional Experience & Education
 - **Threat Management and Incident Response Intern** | [PSEG (Public Service Enterprise Group)](https://www.pseg.com/)
 	- *Gained hands-on experience in a corporate SOC environment for a critical infrastructure utility, focusing on SIEM operations (MS Sentinel), converting Trellix Helix alerts into KQL, Shadow IT, EDR, and incident response procedures.*
@@ -19,14 +45,6 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
-## Competitions
-- **National Cyber League** - 98th percentile (168/7869) Individual Game 
-	- [Scouting Report](https://cyberskyline.com/report/KTBRGJNJMUJE)
-- **CharlestonHacks Hackathon** - 1st Place 
-- **B-Sides Charleston Conference CTF** - 2nd Place
-- HiveStorm Defense, Dragos ICS CTF, PicoCTF
-
 
 ## Skills
 
@@ -92,24 +110,9 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=sql&logoColor=white" />
 </div>
 
-## Projects
-
-### School
-- ICS Network Simulation, Attack, and Playbook
-	- GNS3, Purdue Model for ICS Networks, VMWare Workstation Pro
-- Threat Modeling a Ransomware Attack on a Wallpaper Manufacturer
-	- [IEEE style paper](Threat_Modeling_a_Ransomware_Attack_on_a_Wallpaper_Manufacturer.pdf), MITRE ATT&CK, Data Centric Threat Modeling
-- Digital Forensics on Windows Server 2019
-	- Autopsy, RedPetya Ransomware, Windows Event IDs 
-
-### Software
-- **CreativePython:** A Python package for audio-visual creative programming and algorithmic art. Available on [PyPI](https://pypi.org/project/CreativePython). Paper coming soon.
-- **Movements, Not Chords:** A smartphone instrument that maps physical movements to harmonies using accelerometer data. [Repo](https://github.com/trevritchie/Movements-Not-Chords-JythonMusic)
-- **JazzFlow:** A compositional aid that transforms a MIDI input into 32 inspiring variations. [Repo](https://github.com/trevritchie/JazzFlow)
-- **Timbre!:** An audiovisual simulation where L-system tree growth generates music in real-time. Tree growth directly controls pitch, rhythm, dynamics, and panning. [Repo](https://github.com/trevritchie/Timbre)
-
 ## Hands-On Labs
 - The Citadel's NetLabs, CyberDefenders, Blue Team Labs Online, Let's Defend, TryHackMe
+
 ### CyberDefenders
 - [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/webstrike/)
 - [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/hawkeye/)
