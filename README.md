@@ -15,8 +15,8 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 	- GNS3, Purdue Model for ICS Networks, VMWare Workstation Pro, Wireshark, Networking
 - [Threat Modeling a Ransomware Attack on a Wallpaper Manufacturer](Threat_Modeling_a_Ransomware_Attack_on_a_Wallpaper_Manufacturer.pdf)
     - IEEE Style Paper, MITRE ATT&CK, Data Centric Threat Modeling
-- [Digital Forensics on Windows Server 2022](https://www.iblue.team/ctf-challenges/compromised-windows-server-2022-simulation)
-	- Autopsy, FTK Imager, Plaso logs2timeline, Windows Event IDs, Ransomware
+- [Digital Forensics on Compromised Windows Server 2022](Compromised_WindowsServer2022_Forensics.pdf)
+	- Autopsy, FTK Imager, Windows Event IDs, Plaso, Ransomware
 
 ### Software
 - [CreativePython](https://pypi.org/project/CreativePython): A Python package for audio-visual creative programming and algorithmic art. Available on PyPI and formal paper coming soon. Created for the AI, Music, and Interaction Lab at the College of Charleston.
