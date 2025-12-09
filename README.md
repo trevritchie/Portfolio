@@ -15,11 +15,12 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 	- GNS3, Purdue Model for ICS Networks, VMWare Workstation Pro, Wireshark, Networking
 - [Threat Modeling a Ransomware Attack on a Wallpaper Manufacturer](Threat_Modeling_a_Ransomware_Attack_on_a_Wallpaper_Manufacturer.pdf)
     - IEEE Style Paper, MITRE ATT&CK, Data Centric Threat Modeling
-- Digital Forensics on Windows Server 2019
-	- Autopsy, Ransomware, Windows Event IDs 
+- [Digital Forensics on Windows Server 2022](https://www.iblue.team/ctf-challenges/compromised-windows-server-2022-simulation)
+	- Autopsy, FTK Imager, Plaso logs2timeline, Windows Event IDs, Ransomware
 
 ### Software
-- [CreativePython](https://pypi.org/project/CreativePython): A Python package for audio-visual creative programming and algorithmic art. Available on PyPIP and paper coming soon.
+- [CreativePython](https://pypi.org/project/CreativePython): A Python package for audio-visual creative programming and algorithmic art. Available on PyPI and formal paper coming soon. Created for the AI, Music, and Interaction Lab at the College of Charleston.
+- [Software Engineering Capstone with Zitles](https://zitles.com/): Wrote JavaScript to webscrape county websites for property titles, deeds, and tax records. Completed 3 new counties, expanding the startup's reach by 75%.
 - [Movements, Not Chords](https://github.com/trevritchie/Movements-Not-Chords-JythonMusic): A smartphone instrument that maps physical movements to harmonies using accelerometer data.
 - [JazzFlow](https://github.com/trevritchie/JazzFlow): A compositional aid that transforms a MIDI input into 32 inspiring variations.
 - [Timbre!](https://github.com/trevritchie/Timbre): An audiovisual simulation where L-system tree growth generates music in real-time. Tree growth directly controls pitch, rhythm, dynamics, and panning.
