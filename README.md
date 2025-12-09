@@ -28,7 +28,7 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 
 ## Competitions
 - **National Cyber League** - 98th percentile (168/7869) Individual Game 
-	- [Scouting Report](https://cyberskyline.com/report/KTBRGJNJMUJE)
+	- [Scouting Report](NCL_Scouting_Report.pdf), [Official Verification](https://cyberskyline.com/report/KTBRGJNJMUJE)
 - **CharlestonHacks Hackathon** - 1st Place 
 - **B-Sides Charleston Conference CTF** - 2nd Place
 - HiveStorm Defense, Dragos ICS CTF, PicoCTF
