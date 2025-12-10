@@ -41,11 +41,11 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 - **B.S. Computer Science** | College of Charleston (May 2025)
 
 ## Certifications & Training
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
+- [CompTIA SYO-701 Security+](Security+_Certification.pdf)
+- [Google Cybersecurity Certificate](https://coursera.org/share/e06a16f87894c73d8cf55c695e96ec8a)
+- AWS Cloud Practitioner Essentials (completed during PSEG internship)
+- Rev Up SC Professional Development Program
+    - [South Carolina Association of Colleges and Employers Recommendation](Letter-of-Recommendation_SCACE.pdf)
 
 ## Skills
 
@@ -118,3 +118,8 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 - [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/webstrike/)
 - [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/trevritchie/hawkeye/)
 - TODO: add more links
+
+## Letter of Recomendation
+
+[South Carolina Association of Colleges and Employers](Letter-of-Recommendation_SCACE.pdf)
+
