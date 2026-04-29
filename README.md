@@ -24,6 +24,7 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 - [Movements, Not Chords](https://github.com/trevritchie/Movements-Not-Chords-JythonMusic): A smartphone instrument that maps physical movements to harmonies using accelerometer data.
 - [JazzFlow](https://github.com/trevritchie/JazzFlow): A compositional aid that transforms a MIDI input into 32 inspiring variations.
 - [Timbre!](https://github.com/trevritchie/Timbre): An audiovisual simulation where L-system tree growth generates music in real-time. Tree growth directly controls pitch, rhythm, dynamics, and panning.
+- [Experimental Analysis of FFT](https://github.com/trevritchie/Experimental-Analysis-of-FFT.git): An Experimental Analysis of the Fast Fourier Transform written in Python for my Applied Algorithms grad course.
 - [GuitarDice](https://trevritchie.github.io/Guitar-Dice/): A web-based practice tool for guitarists to randomly explore chord voicings.
 - [flac2aac](https://github.com/trevritchie/flac2aac): Batch convert FLAC files to AAC (m4a). Save a bunch of space while maintaining transparent audio quality. Retains file tags and album covers. I don't trust these online converters and they have low limits.
 
@@ -122,4 +123,3 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 ## Letter of Recomendation
 
 [South Carolina Association of Colleges and Employers](Letter-of-Recommendation_SCACE.pdf)
-
