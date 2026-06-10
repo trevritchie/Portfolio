@@ -15,6 +15,8 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 	- GNS3, Purdue Model for ICS Networks, VMWare Workstation Pro, Wireshark, Networking
 - [Threat Modeling a Ransomware Attack on a Wallpaper Manufacturer](Threat_Modeling_a_Ransomware_Attack_on_a_Wallpaper_Manufacturer.pdf)
     - IEEE Style Paper, MITRE ATT&CK, Data Centric Threat Modeling
+- [Dependable Hospital System](Dependable_Hospital_System.pdf)
+    - IEEE Style Paper, VNS3 simulation
 - [Digital Forensics on Compromised Windows Server 2022](Compromised_WindowsServer2022_Forensics.pdf)
 	- Autopsy, FTK Imager, Windows Event IDs, Plaso, Ransomware
 
@@ -43,8 +45,11 @@ I am eager to apply my academic background and practical skills to a Tier 1 SOC 
 
 ## Certifications & Training
 - [CompTIA SYO-701 Security+](Security+_Certification.pdf)
+- [Splunk Core Certified Power User](https://www.credly.com/badges/77eacfe2-3720-439f-9833-f78367bd5e30/public_url)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/43966c4c-9d00-4060-8813-e4591c147212/public_url)
 - [Google Cybersecurity Certificate](https://coursera.org/share/e06a16f87894c73d8cf55c695e96ec8a)
-- AWS Cloud Practitioner Essentials (completed during PSEG internship)
+- [LetsDefend SOC Analyst Learning Path](https://app.letsdefend.io/certificate/show/259076fc-41c2-47fa-8ecd-e4e56491bb3d)
+- [Professional Scrum Developer I](https://www.credly.com/badges/b3b36f2d-6938-46ac-90ca-2b4ae5190cac/public_url) 
 - Rev Up SC Professional Development Program
     - [South Carolina Association of Colleges and Employers Recommendation](Letter-of-Recommendation_SCACE.pdf)
 
